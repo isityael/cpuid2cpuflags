@@ -14,8 +14,7 @@
   ],
   "lockFileMaintenance": {
     "enabled": true,
-    "groupName": "lock file maintenance",
-    "schedule": ["before 6am on monday"]
+    "groupName": "lock file maintenance"
   },
   "packageRules": [
     {
